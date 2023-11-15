@@ -1,5 +1,7 @@
 import tkinter as tk
 
+#dit is een test
+
 # Functie om de BTW te berekenen
 def bereken_btw():
     bedrag = float(entry_bedrag.get())
